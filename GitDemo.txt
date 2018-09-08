@@ -2,6 +2,6 @@ First file.
 Editing file.
 Adding some new contents.
 
-done with changes.
+done with (trying to getting conflict changes.) doing changes on same line.
 
 done.
